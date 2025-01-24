@@ -1,0 +1,246 @@
+.bg-eee {
+    background-color: #eee;
+}
+
+.bg-white {
+    background: #fff;
+}
+
+.bg-red {
+    background-color: red;
+}
+
+.bg-orange {
+    background-color: orange;
+}
+
+.bg-blue {
+    background-color: #0075ff;
+}
+
+.bg-green {
+    background-color: #22c55e;
+}
+
+/* Start Padding */
+.p-20 {
+    padding: 20px;
+}
+
+.p-15 {
+    padding: 15px;
+}
+
+.p-10 {
+    padding: 10px;
+}
+
+.pt-20 {
+    padding-top: 20px;
+}
+
+.pt-15 {
+    padding-top: 15px;
+}
+
+.pt-10 {
+    padding-top: 10px;
+}
+
+.pb-20 {
+    padding-bottom: 20px;
+}
+
+.pb-15 {
+    padding-bottom: 15px;
+}
+
+.pb-10 {
+    padding-bottom: 10px;
+}
+
+.pl-10 {
+    padding-left: 10px;
+}
+
+.pr-10 {
+    padding-right: 10px;
+}
+
+.pt-5 {
+    padding-top: 5px;
+}
+
+.pb-5 {
+    padding-bottom: 5px;
+}
+
+/* End Padding */
+
+/* Start Margin */
+
+.m-10 {
+    margin: 10px;
+}
+
+.m-15 {
+    margin: 15px;
+}
+
+.m-20 {
+    margin: 20px;
+}
+
+.mt-5 {
+    margin-top: 5px;
+}
+
+.mt-10 {
+    margin-top: 10px;
+}
+
+.mt-20 {
+    margin-top: 20px;
+}
+
+.mb-5 {
+    margin-bottom: 5px;
+}
+
+
+.mb-10 {
+    margin-bottom: 10px;
+}
+
+.mb-20 {
+    margin-bottom: 20px;
+}
+
+/* End Margin */
+
+.full-w {
+    width: 100%;
+}
+
+/* Start Color */
+.c-777 {
+    color: #777;
+}
+
+.c-black {
+    color: black;
+}
+
+.c-white {
+    color: white;
+}
+
+.c-red {
+    color: red;
+}
+
+.c-orange {
+    color: orange;
+}
+
+.c-blue {
+    color: blue;
+}
+
+.c-green {
+    color: green;
+}
+
+/* End Color */
+
+/* Start flex & grid */
+.dis-flex {
+    display: flex;
+}
+
+.dis-grid {
+    display: grid;
+}
+
+.f-wrap {
+    flex-wrap: wrap;
+}
+
+@media (max-width: 500px) {
+    .col-mobile {
+        flex-direction: column;
+    }
+}
+
+.jc-c {
+    justify-content: center;
+}
+
+.jc-sb {
+    justify-content: space-between;
+}
+
+.ai-c {
+    align-items: center;
+}
+
+.flex-1 {
+    flex: 1;
+}
+
+.gap-10 {
+    gap: 10px;
+}
+
+.gap-20 {
+    gap: 20px;
+}
+
+.d-block {
+    display: block;
+}
+
+/* Start Border */
+
+.b-rad-6 {
+    border-radius: 6px;
+}
+
+.b-rad-50pre {
+    border-radius: 50%;
+}
+
+.b-1-aaa {
+    border: 1px solid #aaa;
+}
+
+.b-bottom {
+    border-bottom: 2px solid var(--page-color);
+}
+
+/* End Border */
+
+/* Start Text */
+.txt-c {
+    text-align: center;
+}
+
+.fs-14 {
+    font-size: 14px;
+}
+
+.fs-28 {
+    font-size: 28px;
+}
+
+/* End Text */
+
+/* Start Position */
+.pos-rel {
+    position: relative;
+}
+
+.pos-abs {
+    position: absolute;
+}
+/* End Position */
